@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "monaco-editor": "^0.27.0"
+  },
+  "devDependencies": {
+    "vite": "^2.5.1"
+  }
+}
