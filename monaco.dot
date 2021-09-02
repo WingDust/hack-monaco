@@ -1,0 +1,11 @@
+digraph monaco{
+  graph [compound=true fontname="Source Code Variable ExtraLight Italic"]
+  node [color=black,shape=box,fontname="Source Code Variable ExtraLight Italic" ordering=out];
+  edge [ color=gray arrowhead = "empty" fontname="Source Code Variable ExtraLight Italic"]
+
+  labelloc= "t";
+  label="hack  monaco";
+
+  standaloneEditor
+
+}
